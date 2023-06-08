@@ -1,0 +1,20 @@
+---
+title: "Test Class 08"
+author: "Emmanuel Robles"
+format: html
+---
+
+```{r}
+read_csv("WisconsinCancer.csv")
+```
+
+
+
+
+
+
+
+
+
+
+
